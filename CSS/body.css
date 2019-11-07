@@ -15,10 +15,9 @@ h3  {
     text-align: center;
 }
 img {
-    background-repeat: no-repeat;
-    width: 50%;
-    right: 50%;
-    left: 50%;
+    height: 75%;
+    width: 75%;
+    margin-left: 13%;
 }
 body h3 a {
     color: rgba(255,255,255,1.00);
