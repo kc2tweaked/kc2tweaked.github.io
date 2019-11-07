@@ -1,0 +1,25 @@
+@charset "UTF-8";
+body {
+    font-family: "Helvetica Neue";
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3  {
+    text-align: center;
+}
+body h3 a {
+    color: rgba(255,255,255,1.00);
+    font-family: "Helvetica Neue";
+    text-align: center;
+    background-color: rgba(0,235,240,1.00);
+    text-decoration: none;
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    border-radius: 4px;
+}
