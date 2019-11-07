@@ -1,22 +1,27 @@
 @charset "UTF-8";
 body {
-    font-family: "Helvetica Neue";
+    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
     background-color: rgba(0,0,0,1.00);
 }
 h1 {
     text-align: center;
     color: rgba(255,254,254,1.00);
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue";
+    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
     /* [disabled]font-style: normal; */
+}
+body footer {
+    color: rgba(254,254,254,1.00);
+    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
+    text-align: center;
 }
 h2 {
     text-align: center;
     color: rgba(255,254,254,1.00);
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue";
+    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
 }
 h3  {
     text-align: center;
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue";
+    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
 }
 img {
     height: 75%;
@@ -26,19 +31,19 @@ img {
 }
 p  {
     color: rgba(255,255,255,1.00);
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue";
+    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
     background-repeat: repeat-x;
     text-align: center;
 }
 body h3 a {
     color: rgba(255,255,255,1.00);
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue";
+    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
     text-align: center;
-    background-color: rgba(0,235,240,1.00);
+    background-color: rgba(205,0,0,1.00);
     text-decoration: none;
     padding-top: 4px;
     padding-right: 4px;
     padding-bottom: 4px;
     padding-left: 4px;
-    border-radius: 4px;
+    border-radius: 6px;
 }
