@@ -5,21 +5,21 @@ body {
 h1 {
     text-align: center;
     color: rgba(255,255,255,1.00);
-    font-family: "PingFang TC Regular", "Helvetica Neue", "Microsoft JhengHei";
+    font-family: "Helvetica Neue Bold", "Microsoft JhengHei";
 }
 body footer {
     color: rgba(255,255,255,1.00);
-    font-family: "PingFang TC Regular", "Helvetica Neue", "Microsoft JhengHei";
+    font-family: "Helvetica Neue Light", "Microsoft JhengHei";
     text-align: center;
 }
 h2 {
     text-align: center;
     color: rgba(255,255,255,1.00);
-    font-family: "PingFang TC Bold", "Helvetica Neue", "Microsoft JhengHei";
+    font-family: "Helvetica Neue Bold", "Microsoft JhengHei";
 }
 h3  {
     text-align: center;
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
+    font-family: "Helvetica Neue Bold", "Microsoft JhengHei";
 }
 img {
     height: 75%;
@@ -29,13 +29,13 @@ img {
 }
 p  {
     color: rgba(255,255,255,1.00);
-    font-family: "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
+    font-family: "Helvetica Neue", "Microsoft JhengHei";
     background-repeat: repeat-x;
     text-align: center;
 }
 body h3 a {
     color: rgba(255,255,255,1.00);
-    font-family: "PingFang TC Regular", "Helvetica Neue", "Microsoft JhengHei";
+    font-family: "Helvetica Neue Bold", "Microsoft JhengHei";
     text-align: center;
     background-color: rgba(205,0,0,1.00);
     text-decoration: none;
@@ -45,8 +45,8 @@ body h3 a {
     padding-left: 4px;
     border-radius: 6px;
 }
-body h4 {
+h4 {
     color: rgba(255,255,255,1.00);
-    font-family: "PingFang TC Medium", "Helvetica Neue", "Microsoft JhengHei";
+    font-family: "Helvetica Neue", "Microsoft JhengHei";
     text-align: center;
 }
