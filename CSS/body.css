@@ -6,13 +6,17 @@ body {
 h1 {
     text-align: center;
     color: rgba(255,254,254,1.00);
+    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue";
+    /* [disabled]font-style: normal; */
 }
 h2 {
     text-align: center;
     color: rgba(255,254,254,1.00);
+    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue";
 }
 h3  {
     text-align: center;
+    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue";
 }
 img {
     height: 75%;
@@ -20,9 +24,15 @@ img {
     position: relative;
     left: 12%;
 }
+p  {
+    color: rgba(255,255,255,1.00);
+    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue";
+    background-repeat: repeat-x;
+    text-align: center;
+}
 body h3 a {
     color: rgba(255,255,255,1.00);
-    font-family: "Helvetica Neue";
+    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue";
     text-align: center;
     background-color: rgba(0,235,240,1.00);
     text-decoration: none;
