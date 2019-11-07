@@ -1,23 +1,21 @@
 @charset "UTF-8";
 body {
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
     background-color: rgba(0,0,0,1.00);
 }
 h1 {
     text-align: center;
-    color: rgba(255,254,254,1.00);
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
-    /* [disabled]font-style: normal; */
+    color: rgba(255,255,255,1.00);
+    font-family: "PingFang TC Regular", "Helvetica Neue", "Microsoft JhengHei";
 }
 body footer {
-    color: rgba(254,254,254,1.00);
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
+    color: rgba(255,255,255,1.00);
+    font-family: "PingFang TC Regular", "Helvetica Neue", "Microsoft JhengHei";
     text-align: center;
 }
 h2 {
     text-align: center;
-    color: rgba(255,254,254,1.00);
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
+    color: rgba(255,255,255,1.00);
+    font-family: "PingFang TC Bold", "Helvetica Neue", "Microsoft JhengHei";
 }
 h3  {
     text-align: center;
@@ -31,13 +29,13 @@ img {
 }
 p  {
     color: rgba(255,255,255,1.00);
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
+    font-family: "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
     background-repeat: repeat-x;
     text-align: center;
 }
 body h3 a {
     color: rgba(255,255,255,1.00);
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
+    font-family: "PingFang TC Regular", "Helvetica Neue", "Microsoft JhengHei";
     text-align: center;
     background-color: rgba(205,0,0,1.00);
     text-decoration: none;
@@ -49,6 +47,6 @@ body h3 a {
 }
 body h4 {
     color: rgba(255,255,255,1.00);
-    font-family: "PingFang TC Medium", "PingFang TC Light", "PingFang TC Thin", "Helvetica Neue", "Microsoft JhengHei";
+    font-family: "PingFang TC Medium", "Helvetica Neue", "Microsoft JhengHei";
     text-align: center;
 }
