@@ -57,3 +57,6 @@ h4 {
 body h4 a {
     color: rgba(255,255,255,1.00);
 }
+body h4 strong {
+    color: rgba(255,215,0,1.00);
+}
