@@ -60,3 +60,12 @@ body h4 a {
 body h4 strong {
     color: rgba(255,215,0,1.00);
 }
+body article table {
+}
+tbody tr td {
+    color: rgba(255,255,255,1.00);
+    font-family: "Helvetica Neue", "Microsoft JhengHei";
+}
+tr td a {
+    color: rgba(255,255,255,1.00);
+}
